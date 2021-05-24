@@ -1,5 +1,5 @@
-import React from 'react';
-
+import React, {useState} from 'react';
+const [posts, setPosts] = useState([]);
 
 // jsx
 const App = () => {
