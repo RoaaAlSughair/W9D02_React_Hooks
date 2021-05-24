@@ -3,7 +3,9 @@ import React from 'react';
 
 // jsx
 const App = () => {
-  return <h1>MERAKI Academy</h1>;
+  return <div>
+    <h1>Blog App</h1>
+    </div>;
 };
 
 export default App
